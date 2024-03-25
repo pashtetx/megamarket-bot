@@ -1,0 +1,8 @@
+[Bot]
+Token=6780300914:AAGr72OobmK-XCJ9n149ihEUfXUnYWTLh_w
+
+[Settings]
+Debug=True
+
+[Database]
+URL=postgresql+asyncpg://postgres:1546@localhost:5432/megamarket_bot

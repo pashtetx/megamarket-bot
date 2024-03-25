@@ -1,0 +1,720 @@
+[
+    {
+        "label": "async_api",
+        "importPath": "playwright",
+        "description": "playwright",
+        "isExtraImport": true,
+        "detail": "playwright",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncGenerator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncIterator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Awaitable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Coroutine",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "DeclarativeBase",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncAttrs",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "create_async_engine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "async_sessionmaker",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "async_sessionmaker",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "async_sessionmaker",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "async_sessionmaker",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "BigInteger",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramObject",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Dispatcher",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Dispatcher",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Dispatcher",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "CommandStart",
+        "importPath": "aiogram.filters.command",
+        "description": "aiogram.filters.command",
+        "isExtraImport": true,
+        "detail": "aiogram.filters.command",
+        "documentation": {}
+    },
+    {
+        "label": "CommandObject",
+        "importPath": "aiogram.filters.command",
+        "description": "aiogram.filters.command",
+        "isExtraImport": true,
+        "detail": "aiogram.filters.command",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters.command",
+        "description": "aiogram.filters.command",
+        "isExtraImport": true,
+        "detail": "aiogram.filters.command",
+        "documentation": {}
+    },
+    {
+        "label": "parse_products",
+        "importPath": "megamarket.queries",
+        "description": "megamarket.queries",
+        "isExtraImport": true,
+        "detail": "megamarket.queries",
+        "documentation": {}
+    },
+    {
+        "label": "ProductDict",
+        "importPath": "megamarket.queries",
+        "description": "megamarket.queries",
+        "isExtraImport": true,
+        "detail": "megamarket.queries",
+        "documentation": {}
+    },
+    {
+        "label": "is_catalog_url",
+        "importPath": "utils.urls",
+        "description": "utils.urls",
+        "isExtraImport": true,
+        "detail": "utils.urls",
+        "documentation": {}
+    },
+    {
+        "label": "send_product",
+        "importPath": "utils.send",
+        "description": "utils.send",
+        "isExtraImport": true,
+        "detail": "utils.send",
+        "documentation": {}
+    },
+    {
+        "label": "StatesGroup",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "BaseMiddleware",
+        "importPath": "aiogram.dispatcher.middlewares.base",
+        "description": "aiogram.dispatcher.middlewares.base",
+        "isExtraImport": true,
+        "detail": "aiogram.dispatcher.middlewares.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseMiddleware",
+        "importPath": "aiogram.dispatcher.middlewares.base",
+        "description": "aiogram.dispatcher.middlewares.base",
+        "isExtraImport": true,
+        "detail": "aiogram.dispatcher.middlewares.base",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "db.models.user",
+        "description": "db.models.user",
+        "isExtraImport": true,
+        "detail": "db.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultBotProperties",
+        "importPath": "aiogram.client.default",
+        "description": "aiogram.client.default",
+        "isExtraImport": true,
+        "detail": "aiogram.client.default",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "setup_db",
+        "importPath": "db.setup_db",
+        "description": "db.setup_db",
+        "isExtraImport": true,
+        "detail": "db.setup_db",
+        "documentation": {}
+    },
+    {
+        "label": "register_middlewares",
+        "importPath": "middlewares.register",
+        "description": "middlewares.register",
+        "isExtraImport": true,
+        "detail": "middlewares.register",
+        "documentation": {}
+    },
+    {
+        "label": "register_handlers",
+        "importPath": "routers.register",
+        "description": "routers.register",
+        "isExtraImport": true,
+        "detail": "routers.register",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigParser",
+        "importPath": "configparser",
+        "description": "configparser",
+        "isExtraImport": true,
+        "detail": "configparser",
+        "documentation": {}
+    },
+    {
+        "label": "ProductDict",
+        "kind": 6,
+        "importPath": "megamarket.queries",
+        "description": "megamarket.queries",
+        "peekOfCode": "class ProductDict(TypedDict):\n    title: str\n    url: str\n    price: int\n    img: str = None\n    cashback: int = None\ndef parse_product(product_html, parse_all: bool = False) -> ProductDict:\n    \"\"\" Return ProductDict from Product HTML data\n        product_html - HTML product text\n        parse_all - If False function return ",
+        "detail": "megamarket.queries",
+        "documentation": {}
+    },
+    {
+        "label": "parse_product",
+        "kind": 2,
+        "importPath": "megamarket.queries",
+        "description": "megamarket.queries",
+        "peekOfCode": "def parse_product(product_html, parse_all: bool = False) -> ProductDict:\n    \"\"\" Return ProductDict from Product HTML data\n        product_html - HTML product text\n        parse_all - If False function return \n    \"\"\"\n    product_title = product_html.find(\"div\", {\"class\":\"item-title\"})\n    product_a = product_title.find(\"a\")\n    product_title = product_a.attrs[\"title\"]\n    product_url = product_a.attrs[\"href\"]\n    product_img = product_html.find(\"img\", attrs={\"class\":\"lazy-img\"})",
+        "detail": "megamarket.queries",
+        "documentation": {}
+    },
+    {
+        "label": "clean_url",
+        "kind": 2,
+        "importPath": "megamarket.queries",
+        "description": "megamarket.queries",
+        "peekOfCode": "def clean_url(url: str, domain: str = \"megamarket.ru\") -> bool:\n    \"\"\" TODO make function for clean url \n        return True if url is valid\n    \"\"\"\n    pass\nasync def get_products(html: str, parse_all: bool = False) -> List[ProductDict]:\n    \"\"\" Return products list from a current page\n        html - str HTML text from megamarket catalog\n        parse_all - bool, if True function return products without cashback else function return product only with cashback\n    \"\"\"",
+        "detail": "megamarket.queries",
+        "documentation": {}
+    },
+    {
+        "label": "API_ENDPOINT",
+        "kind": 5,
+        "importPath": "megamarket.endpoints",
+        "description": "megamarket.endpoints",
+        "peekOfCode": "API_ENDPOINT = \"https://megamarket.ru/api/\"\nURL_PARSE_ENDPOINT = API_ENDPOINT + \"mobile/v1/urlService/url/parse\"\nSEARCH_ENDPOINT = API_ENDPOINT + \"mobile/v1/catalogService/catalog/search\"\nIDW_SMM_ENDPOINT = API_ENDPOINT + \"fl/idw-smm\"\nSTART_SESSION_ENDPOINT = API_ENDPOINT + \"mobile/v1/securityService/session/start\"",
+        "detail": "megamarket.endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "URL_PARSE_ENDPOINT",
+        "kind": 5,
+        "importPath": "megamarket.endpoints",
+        "description": "megamarket.endpoints",
+        "peekOfCode": "URL_PARSE_ENDPOINT = API_ENDPOINT + \"mobile/v1/urlService/url/parse\"\nSEARCH_ENDPOINT = API_ENDPOINT + \"mobile/v1/catalogService/catalog/search\"\nIDW_SMM_ENDPOINT = API_ENDPOINT + \"fl/idw-smm\"\nSTART_SESSION_ENDPOINT = API_ENDPOINT + \"mobile/v1/securityService/session/start\"",
+        "detail": "megamarket.endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "SEARCH_ENDPOINT",
+        "kind": 5,
+        "importPath": "megamarket.endpoints",
+        "description": "megamarket.endpoints",
+        "peekOfCode": "SEARCH_ENDPOINT = API_ENDPOINT + \"mobile/v1/catalogService/catalog/search\"\nIDW_SMM_ENDPOINT = API_ENDPOINT + \"fl/idw-smm\"\nSTART_SESSION_ENDPOINT = API_ENDPOINT + \"mobile/v1/securityService/session/start\"",
+        "detail": "megamarket.endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "IDW_SMM_ENDPOINT",
+        "kind": 5,
+        "importPath": "megamarket.endpoints",
+        "description": "megamarket.endpoints",
+        "peekOfCode": "IDW_SMM_ENDPOINT = API_ENDPOINT + \"fl/idw-smm\"\nSTART_SESSION_ENDPOINT = API_ENDPOINT + \"mobile/v1/securityService/session/start\"",
+        "detail": "megamarket.endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "START_SESSION_ENDPOINT",
+        "kind": 5,
+        "importPath": "megamarket.endpoints",
+        "description": "megamarket.endpoints",
+        "peekOfCode": "START_SESSION_ENDPOINT = API_ENDPOINT + \"mobile/v1/securityService/session/start\"",
+        "detail": "megamarket.endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 6,
+        "importPath": "db.models.base",
+        "description": "db.models.base",
+        "peekOfCode": "class Base(DeclarativeBase, AsyncAttrs):\n    @classmethod\n    @property\n    def objects(cls) -> Manager:\n        return Manager(cls)",
+        "detail": "db.models.base",
+        "documentation": {}
+    },
+    {
+        "label": "Subscription",
+        "kind": 6,
+        "importPath": "db.models.user",
+        "description": "db.models.user",
+        "peekOfCode": "class Subscription(Base):\n    \"\"\" Модель подписки \"\"\"\n    __tablename__ = \"subscriptions\"\n    id = Column(\"id\", UUID, default=uuid4, primary_key=True)\n    expires_in = Column(\"expires_in\", DateTime, default=datetime.now)\n    user_id = Column(\"user_id\", ForeignKey(\"users.id\"), unique=True)\n    user = relationship(\"User\", uselist=False, back_populates=\"subscription\")\n    def __str__(self) -> str:\n        return f\"<Subscription id={self.id}, user={self.user.id}>\"\nclass User(Base):",
+        "detail": "db.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "db.models.user",
+        "description": "db.models.user",
+        "peekOfCode": "class User(Base):\n    \"\"\" Модель пользователя \"\"\"\n    __tablename__ = \"users\"\n    id = Column(\"id\", UUID, default=uuid4, primary_key=True)\n    telegram_id = Column(\"telegram_id\", BigInteger)\n    subscription = relationship(\"Subscription\",uselist=True, back_populates=\"user\")\n    def __str__(self) -> str:\n        return f\"<User id={self.id}, telegram_id={self.telegram_id}>\"",
+        "detail": "db.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "Manager",
+        "kind": 6,
+        "importPath": "db.manager",
+        "description": "db.manager",
+        "peekOfCode": "class Manager:\n    \"\"\" Manager database quering \"\"\"\n    def __init__(self, model: Any) -> None:\n        self.model = model\n        self.query = None\n    async def create(self, async_session: AsyncSession, save = True, **kwargs):\n        \"\"\" Create a model object \n        :async_session param: - Async session database sqlalchemy\n        :save param: - Default True, if True function at once saved object\n        \"\"\"",
+        "detail": "db.manager",
+        "documentation": {}
+    },
+    {
+        "label": "register_user_handlers",
+        "kind": 2,
+        "importPath": "routers.handlers",
+        "description": "routers.handlers",
+        "peekOfCode": "def register_user_handlers(router: Router):\n    router.message.register(start, CommandStart())\n    router.message.register(parse_megamarket, Command(\"parse\"))",
+        "detail": "routers.handlers",
+        "documentation": {}
+    },
+    {
+        "label": "register_handlers",
+        "kind": 2,
+        "importPath": "routers.register",
+        "description": "routers.register",
+        "peekOfCode": "def register_handlers(dp: Dispatcher):\n    router = Router()\n    register_user_handlers(router)\n    dp.include_router(router)",
+        "detail": "routers.register",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryMonitor",
+        "kind": 6,
+        "importPath": "routers.fsm",
+        "description": "routers.fsm",
+        "peekOfCode": "class CategoryMonitor(StatesGroup):\n    url = State()\n    cashback_percent = State()",
+        "detail": "routers.fsm",
+        "documentation": {}
+    },
+    {
+        "label": "SessionMiddleware",
+        "kind": 6,
+        "importPath": "middlewares.session_middleware",
+        "description": "middlewares.session_middleware",
+        "peekOfCode": "class SessionMiddleware(BaseMiddleware):\n    def __init__(self, async_session: async_sessionmaker[AsyncSession]) -> None:\n        self.async_session = async_session\n        super().__init__()\n    async def __call__(\n        self,\n        handler: Callable[[TelegramObject, Dict[str, Any]], Awaitable[Any]],\n        event: TelegramObject,\n        data: Dict[str, Any]\n    ) -> Any:",
+        "detail": "middlewares.session_middleware",
+        "documentation": {}
+    },
+    {
+        "label": "register_middlewares",
+        "kind": 2,
+        "importPath": "middlewares.register",
+        "description": "middlewares.register",
+        "peekOfCode": "def register_middlewares(dp: Dispatcher, async_session: async_sessionmaker[AsyncSession]):\n    \"\"\" Регистриует промежутчные приложения \"\"\"\n    middlewares = (\n        SessionMiddleware(async_session=async_session),\n        UserMiddleware(),\n    )\n    for middleware in middlewares:\n        print('registered', middleware)\n        dp.update.middleware.register(middleware)",
+        "detail": "middlewares.register",
+        "documentation": {}
+    },
+    {
+        "label": "UserMiddleware",
+        "kind": 6,
+        "importPath": "middlewares.user_middleware",
+        "description": "middlewares.user_middleware",
+        "peekOfCode": "class UserMiddleware(BaseMiddleware):\n    async def __call__(self, handler, event, data):\n        session = data[\"session\"]\n        user = await User.objects.get_or_create(session, telegram_id=data['event_from_user'].id)\n        data[\"user\"] = user\n        return await handler(event, data)",
+        "detail": "middlewares.user_middleware",
+        "documentation": {}
+    },
+    {
+        "label": "is_catalog_url",
+        "kind": 2,
+        "importPath": "utils.urls",
+        "description": "utils.urls",
+        "peekOfCode": "def is_catalog_url(url: str) -> bool:\n    return url.startswith(\"https://megamarket.ru/catalog/\")",
+        "detail": "utils.urls",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "kind": 2,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "def load_config(path: str = \"config.ini\") -> ConfigParser:\n    \"\"\" Loads config.ini\n        path - str = \"config.ini\"\n        Example:\n        TOKEN = load_config().get(\"Bot\", \"Token\")\n    \"\"\"\n    config = ConfigParser()\n    config.read(path)\n    return config",
+        "detail": "config",
+        "documentation": {}
+    }
+]

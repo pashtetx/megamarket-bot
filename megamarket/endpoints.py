@@ -1,0 +1,5 @@
+API_ENDPOINT = "https://megamarket.ru/api/"
+URL_PARSE_ENDPOINT = API_ENDPOINT + "mobile/v1/urlService/url/parse"
+SEARCH_ENDPOINT = API_ENDPOINT + "mobile/v1/catalogService/catalog/search"
+IDW_SMM_ENDPOINT = API_ENDPOINT + "fl/idw-smm"
+START_SESSION_ENDPOINT = API_ENDPOINT + "mobile/v1/securityService/session/start"
