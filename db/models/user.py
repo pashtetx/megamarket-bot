@@ -26,7 +26,7 @@ class User(Base):
     
     id = Column("id", UUID, default=uuid4, primary_key=True)
     telegram_id = Column("telegram_id", BigInteger)
-    subscription = relationship("Subscription",uselist=True, back_populates="user", lazy="selectin")
+    subscription = relationship("Subscription",uselist=False, back_populates="user", lazy="selectin")
     is_parsing = Column("is_parsing", Boolean, default=False)
     
     def __str__(self) -> str:
